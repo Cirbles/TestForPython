@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd136340-06d3-4cc9-84d3-d11d0b1c385c" name="Default Changelist" comment="" />
+    <list default="true" id="fd136340-06d3-4cc9-84d3-d11d0b1c385c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/3.8/tourest.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/3.8/tourest.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z1IOKdluEpXjIwS3IaQhAsLg27" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +29,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.tourest">
@@ -107,9 +116,33 @@
       <option name="presentableId" value="Default" />
       <updated>1584000140041</updated>
     </task>
+    <task id="LOCAL-00001" summary="add codes">
+      <created>1584436045414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584436045414</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add codes nihao">
+      <created>1584436130147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584436130147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add codes" />
+    <MESSAGE value="add codes nihao" />
+    <option name="LAST_COMMIT_MESSAGE" value="add codes nihao" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="353" y="41" key="CommitChangelistDialog2" timestamp="1584436129979">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="353" y="41" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1584436129979" />
     <state width="1419" height="215" key="GridCell.Tab.0.bottom" timestamp="1584430857410">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
@@ -146,6 +179,10 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state x="229" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1584429761550" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1584436053802">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.23.1440.831@0.23.1440.831" timestamp="1584436053802" />
     <state x="399" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1584410309013">
       <screen x="0" y="23" width="1440" height="831" />
     </state>
